@@ -41,7 +41,13 @@ h1, h2, h3, h4 {
 }
 
 .post {
-    margin-bottom: 70px;
+    margin-bottom: 25px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 25px;
+}
+
+.post-text {
+    line-height: 2;
 }
 
 .post h2 a, .post h2 a:visited {
